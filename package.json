@@ -1,0 +1,13 @@
+{
+  "name": "fb-hack-basketball-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^23.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  }
+}
